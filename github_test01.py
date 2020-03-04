@@ -8,3 +8,5 @@ for i in range(1,10):
         print("%d*%d=%d" %(i,j,i*j),end=" ")
 
 
+time.sleep(3)
+print("这个是第一文件，关于github测试")

@@ -6,3 +6,4 @@ for i in range(1,10):
 
 
 print("这是第二个github测试文件，good")
+print("测试一下test02,01快受不了我们了")

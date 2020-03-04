@@ -7,3 +7,4 @@ for i in range(1,10):
 
 print()
 print("这个是第三个测试文件，good")
+print("我也要加入你们的测试环境，一起玩呀")

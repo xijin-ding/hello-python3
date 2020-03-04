@@ -10,3 +10,4 @@ for i in range(1,10):
 
 time.sleep(3)
 print("这个是第一文件，关于github测试")
+print("hello ,shanghai ")

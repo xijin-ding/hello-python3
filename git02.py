@@ -6,3 +6,4 @@ for i in range(1,10):
 
 
 print("希望这次测试能领悟到更多！！！，hello,Pycharm")
+print("加一个注释吧，这样更容易分辨出来！")

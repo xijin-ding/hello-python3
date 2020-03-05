@@ -6,3 +6,4 @@ for i in range(1,10):
         print("%d*%d=%d" %(i,j,i*j),end=" ")
 
 # 每天联系一下，这个有感觉，记得下次要起泡呀！
+# Pycharm 很强大、非常好的软件good

@@ -1,0 +1,8 @@
+import time
+
+for i in rang(1,10):
+    print()
+    for j in rang(i,i+1):
+        print("d%*d%=i*j",i,j,i*j)
+        
+    
